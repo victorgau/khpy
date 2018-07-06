@@ -24,6 +24,27 @@
     <!-- Custom styles for this template -->
     <link href="css/creative.min.css" rel="stylesheet">
     <link href="css/3-col-portfolio.css" rel="stylesheet">
+    <style>
+      #mainNav:not(.navbar-shrink) {
+        border-bottom: 1px solid rgba(33,37,41,.1);
+        background-color: #000!important;
+      }
+      #mainNav:not(.navbar-shrink) * {
+        color: rgba(255, 255, 255, .7)!important;
+      }
+      #mainNav:not(.navbar-shrink) *:hover, #mainNav:not(.navbar-shrink) *:active, #mainNav:not(.navbar-shrink) *:focus {
+        color: rgba(255, 255, 255, 1)!important;
+      }
+      #mainNav:not(.navbar-shrink) .navbar-toggler-icon{
+        -webkit-transition: all 0.2s;
+        -moz-transition: all 0.2s;
+        transition: all 0.2s;
+        background-image: url("data:image/svg+xml;charset=utf8,<svg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'><path stroke='rgba(255, 255, 255, 0.5)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/></svg>");
+      }
+      #mainNav:not(.navbar-shrink) .navbar-toggler-icon:hover {
+        background-image: url("data:image/svg+xml;charset=utf8,<svg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'><path stroke='rgba(255, 255, 255, 1)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/></svg>");
+      }
+    </style>
 
   </head>
 
