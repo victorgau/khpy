@@ -25,7 +25,7 @@
 |編程工具|[Visual Studio Code](https://code.visualstudio.com/), [colab](https://colab.research.google.com/), [Anaconda](https://www.anaconda.com/products/individual), [Jupyter Notebook/Lab](https://jupyter.org/)|
 |版本管理|[git](https://git-scm.com/), [github](https://github.com/)|
 |資料分析|[numpy](https://numpy.org/), [matplotlib](https://matplotlib.org/), [pandas](https://pandas.pydata.org/)|
-|資料視覺化|[matplotlib](https://matplotlib.org/), [seaborn](https://seaborn.pydata.org/), [plotly](https://plotly.com/python/plotly-express/)|
+|資料視覺化|[matplotlib](https://matplotlib.org/), [seaborn](https://seaborn.pydata.org/), [plotly](https://plotly.com/python/plotly-express/), [Dash](https://plotly.com/dash/), [Streamlit](https://streamlit.io/)|
 |網路爬蟲|[requests](https://docs.python-requests.org/en/latest/), [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/), [selenium](https://selenium-python.readthedocs.io/)|
 |量化投資|[pandas](https://pandas.pydata.org/), [mplfinance](https://github.com/matplotlib/mplfinance), [ffn](https://github.com/pmorissette/ffn), [pandas-datareader](https://pandas-datareader.readthedocs.io/en/latest/), [TradingView](https://tw.tradingview.com/)|
 |美工設計|[canva](https://www.canva.com/zh_tw/)|
